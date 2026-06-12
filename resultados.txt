@@ -1,0 +1,4 @@
+Tiempo de vuelo (s): 499.50 499.50 499.50
+Distancia recorrida (m): 151.15 855.64 346.92
+Velocidad maxima (m/s): 0.49 3.50 1.46
+Velocidad promedio (m/s): 0.30 1.71 0.69
